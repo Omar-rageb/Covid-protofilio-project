@@ -58,7 +58,8 @@ from #percentpopulationvaccinated
 -------------------------------------------------------------------
 
 drop view if EXISTS percentpopulationvaccinated;
--- CREAT VIEW FOR LATTER
+
+-- CREAT VIEW FOR LATER
 
 create view percentpopulationvaccinated as
 select cd.continent ,cd.location,cd.date,cd.population ,cv.new_vaccinations
