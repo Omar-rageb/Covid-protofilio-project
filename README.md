@@ -18,6 +18,14 @@ This project provides a comprehensive analysis of COVID-19 data, offering insigh
 - **💀 Total Global Deaths**: 3,180,206
 - **📉 Global Mortality Rate**: 2.11%
 
+## 🛠️ Tools Used
+This project was built using the following tools:
+- **Excel**: For data cleaning, exploration, and initial analysis.
+- **Power Query**: For advanced data transformation and integration.
+- **Tableau**: For creating interactive and visually appealing dashboards.
+- **SQL**: For querying and managing relational databases.
+
+
 ### 🌍 Continental Deaths
 - **🇪🇺 Europe**: 1,018,750 deaths
 - **🇺🇸 North America**: 847,942 deaths
@@ -45,6 +53,17 @@ The dashboard provides an interactive visualization of COVID-19 data, including:
 - **🇪🇺 Europe**:
   - **Actual Mortality Rate**: 3.22%
   - **Estimated Future Mortality Rate**: 0.00% (subject to revision)
+ ----------------------------------------------------------------------------------------------------------------------------------------
+ 
+Here’s a preview of the dataset:
+
+| Total Cases   | Total Deaths | Death Percentage | Continent   | Country       | Date       | Mortality Rate | Forecasted Mortality Rate |
+|---------------|--------------|------------------|-------------|---------------|------------|----------------|---------------------------|
+| 150,574,977   | 3,180,206    | 2.11%            | Global      | Global        | 2025-02-22 | 2.11%          | -                         |
+| 1,018,750     | 847,942      | 2.11%            | Europe      | Russia        | 2025-02-22 | 3.22%          | 0.00%                     |
+| 121,784       | 520,269      | 2.11%            | Africa      | Razakistan   | 2025-02-22 | 17.93%         | 9.51%                     |
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### 📧 Contact
-For any inquiries, please reach out to [Omar Ragab] at [www.linkedin.com/in/omar-rageb].
+For any inquiries, please reach out to [Omar Ragab] at [omarrageb341@gmail.com].
