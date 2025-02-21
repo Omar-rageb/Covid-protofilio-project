@@ -46,7 +46,5 @@ The dashboard provides an interactive visualization of COVID-19 data, including:
   - **Actual Mortality Rate**: 3.22%
   - **Estimated Future Mortality Rate**: 0.00% (subject to revision)
 
-## 📂 Data Sources
-- [🌍 OpenStreetMap](https://www.openstreetmap.org)
-- [📦 LibboX](https://www.libbox.com) (if applicable)
-- Other publicly available COVID-19 datasets.
+### 📧 Contact
+For any inquiries, please reach out to [Omar Ragab] at [www.linkedin.com/in/omar-rageb].
